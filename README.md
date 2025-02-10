@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hi there 👋
+- I’m currently working on electronics for my PhD! 👾
+- I’m currently learning analogue and digital electronics, instrumentation, Python, VHDL and embedded Linux. 💻⚙️
 <!--
 **Ju-Po/Ju-Po** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
